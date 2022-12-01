@@ -5,13 +5,13 @@ if (!empty($_GET['location'])) {
      */
 
     echo ($_GET['location']);
-    //$url = 'https://maps.googleapis.com/maps/api/staticmap?zoom=14&size=1000x1000&key=AIzaSyDtDajra1SgNTLBmZjeZxS3J8Ec_XfTACU&center=' . ($_GET['location']);
+    //$url = 'https://maps.googleapis.com/maps/api/staticmap?zoom=14&size=1000x1000&key=&center=' . ($_GET['location']);
     $result = 'https://' .
         'maps.googleapis.com/' .
         'maps/api/staticmap?' .
         'center=' . urldecode($_GET['location']) .
         '&zoom=14&scale=2&size=1000x1000' .
-        '&key=AIzaSyDtDajra1SgNTLBmZjeZxS3J8Ec_XfTACU';
+        '&key=';
 
     echo "\n";
     echo $result;
