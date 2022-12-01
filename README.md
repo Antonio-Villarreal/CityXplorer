@@ -1,7 +1,7 @@
 # GoogleMaps-API-Explorer
 
 ## PHP City Finder
-Local Host: http://localhost/google-maps-api-exploration/php_city_finder/demo.php   
+Local Host: http://localhost/repo/php_city_finder/demo.php
 File Location: C:\xampp\htdocs
 
 <p align="center">
