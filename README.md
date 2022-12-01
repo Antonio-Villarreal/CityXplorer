@@ -1,6 +1,6 @@
 # GoogleMaps-API-Explorer
 
-## City Finder v1
+## City Finder version 1.0
 
 <p align="center">
   <img src='https://github.com/Antonio-Villarreal/google-maps-api-exploration/blob/main/media/php_city_finder_v1.gif' title='Video Walkthrough' width='700' alt='Video Walkthrough' />
